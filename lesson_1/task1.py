@@ -45,3 +45,26 @@ z = x // y == 3
 print(z, type(z))
 
 # 8 y chem anelu, imast chem tesnum
+
+# research
+
+# % - mnacordna talis 7 % 2 = 1
+
+
+# * stringi het, copy-a anum
+s = "a"
+n = 3
+print(s * n)
+
+# Variable names cannot start with a digit, because it can cause some problems like below:
+#
+# int a = 2;
+# int 2 = 5;
+# int c = 2 * a;
+# what is the value of c? is 4, or is 10!
+#
+# another example:
+#
+# float 5 = 25;
+# float b = 5.5;
+
